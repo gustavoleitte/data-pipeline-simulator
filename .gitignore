@@ -1,0 +1,33 @@
+# Ambientes virtuais
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# IDEs e editores
+.vscode/
+.idea/
+
+# Arquivos de dados processados
+data/processed/
+data/output/
+
+# Arquivos de cache
+.cache/
+*.sqlite3
+
+# Docker
+*.pid
+*.sock
+*.tar
+*.img
+*.bak
+*.db
